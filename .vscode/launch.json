@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/mnt/homes/fbenalla/leetcode",
+      "program": "/mnt/homes/fbenalla/leetcode/build/Debug/outDebug"
+    }
+  ]
+}
